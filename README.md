@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Grzegorz</h1>
 <h3 align="center">Diving Deep into the World of Computer Science: A Student's Journey</h3>
 
-- 🌱 I’m currently learning **React,JavaScript, HTML, CSS, Node.js**
+- 🌱 I’m currently learning **React, JavaScript, HTML, CSS, Node.js**
+
+- 💬 Ask me about **I am passionate about running and the gym**
 
 - 📫 How to reach me **grzegorzd.ok@gmail.com**
 
