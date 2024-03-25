@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **React, JavaScript, HTML, CSS, Node.js**
 
-- 💬 Ask me about **I am passionate about running and the gym**
-
 - 📫 How to reach me **grzegorzd.ok@gmail.com**
+
+- ⚡ Fun fact **I am passionate about running and the gym**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
