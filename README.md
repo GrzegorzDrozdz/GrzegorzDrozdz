@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Grzegorz</h1>
-<h3 align="center">Diving Deep into the World of Computer Science: A Student's Journey</h3>
+<h3 align="center">Computer Science: A Student's Journey</h3>
 
 - 🌱 I’m currently learning **React, JavaScript, HTML, CSS, Node.js**
 
