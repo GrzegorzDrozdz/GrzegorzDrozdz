@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Grzegorz</h1>
-<h3 align="center">Computer Science student at University of Economics in Katowice</h3>
+<h3 align="center">Computer Science Student at University of Economics in Katowice</h3>
 
 - 🌱 I’m currently learning **React, JavaScript, HTML, CSS, Node.js**
 
