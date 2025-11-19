@@ -6,9 +6,6 @@
     I am currently focused on <b>Data Science</b> and <b>Machine Learning</b>, with a <b>solid foundation in SQL</b>. <br>
     My goal is to integrate these skills with <b>Cloud Computing</b> to specialize as an <b>MLOps Engineer</b>.
   </p>
-
-  <br>
-
   <h3>👨‍💻 Programming Languages</h3>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python Badge"/>
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# Badge"/>
