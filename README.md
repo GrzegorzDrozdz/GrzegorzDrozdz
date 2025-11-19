@@ -43,7 +43,7 @@
   <hr>
   
   <h3>📬 Contact</h3>
-  <a href="https://www.linkedin.com/in/grzegorzdrozdz11/" target="_blank">
+  <a href="https://www.linkedin.com/in/grzegorzdrozdz1/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
