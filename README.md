@@ -1,24 +1,50 @@
-![MasterHead](https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_600_2000/0/1626753867110?e=2147483647&v=beta&t=Kf7YAuwZtyCGYLNch-Mgc5eOC-7h7uL_dnBAIgsAFRQ)
+<div align="center">
 
-# Hi, I'm Grzegorz! 👋  
-## 🎓 Computer Science Student at University of Economics in Katowice
+  <img src="https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_600_2000/0/1626753867110?e=2147483647&v=beta&t=Kf7YAuwZtyCGYLNch-Mgc5eOC-7h7uL_dnBAIgsAFRQ" alt="MasterHead" width="100%" />
 
-I'm a passionate Data Science & Machine Learning enthusiast with a strong interest in building interactive and explainable ML applications.  
-I specialize in Python and use libraries such as scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Plotly, and Streamlit to create data-driven solutions.  
-I also have solid experience with C# (OOP) and relational databases using SQL.
+  <br>
 
-## 🔍 About Me
-- 🌱 I'm currently working on an **unsupervised learning** project focused on discovering patterns in unlabelled data  
-- 🔭 I'm learning **Power BI** to strengthen my data visualization and reporting skills  
-- ⚡ I'm also planning to dive into **deep learning**, especially for **image analysis** and **NLP**, and build practical projects to apply theory in real-world scenarios  
+  <h1>Hi, I'm Grzegorz! 👋</h1>
+  <h2>🎓 Computer Science Student at University of Economics in Katowice (Master's)</h2>
+  
+  <p>
+    I am currently focused on <b>Data Science</b> and <b>Machine Learning</b>, with a <b>solid foundation in SQL</b>. <br>
+    My goal is to integrate these skills with <b>Cloud Computing</b> to specialize as an <b>MLOps Engineer</b>.
+  </p>
 
-### 🧰 Tech Stack
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=fff) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  <br>
+
+  <h3>👨‍💻 Programming Languages</h3>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python Badge"/>
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# Badge"/>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/>
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/>
+
+  <h3>🗄️ Database Management</h3>
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="MS SQL Badge"/>
+
+  <h3>📚 Libraries & Tools</h3>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn Badge"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Badge"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy Badge"/>
+  <img src="https://img.shields.io/badge/Matplotlib-%23135F9B.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" alt="Matplotlib Badge"/>
+  <img src="https://img.shields.io/badge/SHAP-4B8BBE?style=for-the-badge&logo=python&logoColor=white" alt="SHAP Badge"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit Badge"/>
+
+  <h3>🌱 Currently Learning</h3>
+    <img src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Badge"/>
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch Badge"/>
+  <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision Badge"/>
+  
+  <img src="https://img.shields.io/badge/Reinforcement%20Learning-00CC96?style=for-the-badge&logo=openai&logoColor=white" alt="Reinforcement Learning Badge"/>
 
 
-## 📫 Contact
-- **Email:** [grzegorz.drozdz@edu.uekat.pl](mailto:grzegorz.drozdz@edu.uekat.pl)
----
+  <br>
+  <hr>
+  
+  <h3>📬 Contact</h3>
+  <a href="https://www.linkedin.com/in/grzegorzdrozdz11/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 
-Feel free to explore my projects and get in touch!
+</div>
